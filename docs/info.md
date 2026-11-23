@@ -21,3 +21,5 @@ Example: A=[[1,2],[3,4]], B=[[5,6],[7,3]] gives C=[[19,12],[43,30]].
 ## External hardware
 
 None required. A microcontroller (the RP2040 on the Tiny Tapeout demo board, or an ESP32) drives the inputs and reads the outputs following the sequence above.
+
+
